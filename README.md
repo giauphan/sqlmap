@@ -28,9 +28,3 @@ To get a list of all options and switches use:
     python sqlmap.py -hh
 
 
-Links
-----
-
-* Homepage: https://sqlmap.org
-* Twitter: [@sqlmap](https://twitter.com/sqlmap)
-* Demos: [https://www.youtube.com/user/inquisb/videos](https://www.youtube.com/user/inquisb/videos)
